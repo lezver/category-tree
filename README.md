@@ -1,2 +1,2 @@
-it was my test task,  i shoold  creat a infinity tree  and i’m made it.
+This was my test task, I had to create an infinite tree and I created it.
 I use Next.js / TypeScript / Tailwind
